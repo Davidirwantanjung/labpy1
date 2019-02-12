@@ -25,4 +25,4 @@ syntax:
 if kondisi:
 		statment_true
 contoh program input 3 biangan mencari"bilangan terbesar menggunakan statment "if"
-# ![GitHub Logo](1.png)
+# ![GitHub Logo](pc1.PNG)
