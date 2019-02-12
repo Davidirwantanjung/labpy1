@@ -17,7 +17,7 @@ diketahui 3 buah bilangan bil1,bil2,bil3,akan dicari nilai yang terbesar.
 -selesai 
 
 flowchart
-# ![GitHub Logo](flowchart.jpg)
+# ![GitHub Logo](flowchart.PNG)
 
 pernyataan if
 pada phyton di kenal penggunaan struktur kondisi menggunakan statment if,dimana format/syntax penggunaan statment if adalah:
@@ -25,4 +25,4 @@ syntax:
 if kondisi:
 		statment_true
 contoh program input 3 biangan mencari"bilangan terbesar menggunakan statment "if"
-# ![GitHub Logo](1.png) <h2>
+# ![GitHub Logo](1.png)
